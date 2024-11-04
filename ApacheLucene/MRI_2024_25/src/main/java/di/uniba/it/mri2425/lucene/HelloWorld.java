@@ -1,4 +1,4 @@
-package di.uniba.it.mri2324.lucene;
+package di.uniba.it.mri2425.lucene;
 
 import java.io.File;
 import java.io.IOException;
