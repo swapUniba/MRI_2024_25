@@ -4,13 +4,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>MRI_2022-23</groupId>
-  <artifactId>MRI_2022-23</artifactId>
+  <groupId>MRI_2024_25</groupId>
+  <artifactId>MRI_2024_25</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>MRI_2022-23</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>MRI_2024_25</name>
+  <url>https://github.com/swapUniba/MRI_2024_25</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
